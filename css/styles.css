@@ -1,0 +1,19 @@
+h4 {
+  padding: 20px auto 10px auto;
+  font-weight: bold;
+}
+input {
+  margin: auto 20px auto 20px;
+}
+.btn {
+  margin: 20px 30px 15px auto;
+}
+.account-header {
+  margin: 50px auto 30px auto;
+}
+.well-lg {
+  background-color: #B8DBEA;
+  margin: 30px;
+  padding: 20px 20px 10px 20px;
+  border-radius: 8px;
+}
